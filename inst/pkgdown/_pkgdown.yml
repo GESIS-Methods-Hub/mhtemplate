@@ -1,0 +1,23 @@
+template:
+  includes:
+    before_title: '<a href="https://gesis.org"><img src="https://www.gesis.org/typo3conf/ext/gesis_web_ext/Resources/Public/webpack/dist/img/gs_home_logo_en.svg" id="gesislogo" alt="GESIS Methods Hub" height="35px"></a>'
+  bootstrap: 5
+  bslib:
+    bg: "#ffffff"
+    fg: "#333333"
+    primary: "#58748f"
+    dropdown-link-hover-bg: "#f0f0f0"
+    dropdown-link-hover-color: "#ff6100"
+    dropdown-link-active-color: "#ff6100"
+    headings-color: "#58748f"
+    navbar-brand-font-size: "2rem"
+    navbar-light-color: "#58748f"
+    navbar-light-brand-color: "#58748f"
+    navbar-light-brand-hover-color: "#58748f"
+    text-muted: "#7990a5"
+    navbar-light-hover-color: "#ff6100"
+    base_font: "Source Sans,sans-serif"
+navbar:
+  structure:
+    left: [intro, reference, articles, tutorials]
+    right: [search, news, github]
