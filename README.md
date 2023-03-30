@@ -24,3 +24,7 @@ add `_pkgdown.yml` to an R package repository with content
 template:
   package: mhtemplate
 ```
+
+# Example
+
+![](man/figures/example.png)
